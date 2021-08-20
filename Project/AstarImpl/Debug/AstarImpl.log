@@ -1,0 +1,10 @@
+﻿  Astar.cpp
+  Initializer.cpp
+W:\C++Project\AstarImpl\AstarImpl\Initializer.cpp(140,7): warning C4566: character represented by universal-character-name '\u7D4C' cannot be represented in the current code page (949)
+  SourceMain.cpp
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/utf-8'; ignored
+LINK : warning LNK4044: unrecognized option '/source-charset'; ignored
+LINK : warning LNK4044: unrecognized option '/utf-8'; ignored
+LINK : warning LNK4044: unrecognized option '/source-charset'; ignored
+  AstarImpl.vcxproj -> W:\C++Project\AstarImpl\Debug\AstarImpl.exe
