@@ -66,6 +66,16 @@ explicit(true) Astar(bool) noexcept;
 ```
 
 
+# **Pictures**
+
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/1_1.PNG)
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/1_2.PNG)
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/1_3.PNG)
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/1_4.PNG)
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/2_1.PNG)
+![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/2_2.PNG)
+
+
 # **Blog**
 
 * **[Velog](https://velog.io/@dpmawile)**
@@ -75,5 +85,3 @@ explicit(true) Astar(bool) noexcept;
 # **Reference**
 
 * **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
-
-![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/1_1.PNG)
