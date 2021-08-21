@@ -81,12 +81,6 @@ explicit(true) Astar(bool) noexcept;
 ![](https://github.com/Mawi1e/AstarImpl/blob/main/Pictures/3_3.PNG)
 
 
-# **Blog**
-
-* **[Velog](https://velog.io/@dpmawile)**
-* **[Tistory](https://mawile.tistory.com)**
-
-
 # **Reference**
 
 * **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
