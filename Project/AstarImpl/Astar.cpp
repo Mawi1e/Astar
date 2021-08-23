@@ -139,7 +139,7 @@ namespace mawile {
 		(this->Path).clear();
 		std::stack<Coordinate> Path;
 		Path.push({ Dst.y, Dst.x });
-		(this->Path).push_back({ Dst.x, Dst.y });
+		(this->Path).push_back({ Dst.y, Dst.x });
 
 		int Currentx = Dst.x;
 		int Currenty = Dst.y;
@@ -153,7 +153,7 @@ namespace mawile {
 			Currenty = tempY;
 
 			Path.push({ Currenty, Currentx });
-			(this->Path).push_back({ Currentx, Currenty });
+			(this->Path).push_back({ Currenty, Currentx });
 		}
 
 		while (!Path.empty()) {

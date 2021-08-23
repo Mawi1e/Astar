@@ -1,0 +1,10 @@
+﻿  Astar.cpp
+  Initializer.cpp
+W:\Github\AstarImpl\Project\AstarImpl\Initializer.cpp(140,7): warning C4566: character represented by universal-character-name '\u7D4C' cannot be represented in the current code page (949)
+  LanguageSelector.cpp
+  SourceMain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 892 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AstarImpl.vcxproj -> W:\Github\AstarImpl\Project\x64\Release\AstarImpl.exe
